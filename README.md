@@ -3,7 +3,7 @@
 Application web de gestion de bibliothèque développée en PHP.
 
 ## 🌐 Démo en ligne
-👉 [biblioplus.infinityfreeapp.com](http://biblioplus.infinityfreeapp.com)
+👉 [biblioplus.infinityfreeapp.com](mahefa-maximin-vitasoa.gt.tc)
 
 ## 🔑 Accès démo
 - **Utilisateur :** `admin`
