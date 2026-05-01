@@ -3,7 +3,7 @@
 Application web de gestion de bibliothèque développée en PHP.
 
 ## 🌐 Démo en ligne
-👉 [mahefa-maximin-vitasoa.gt.tc](mahefa-maximin-vitasoa.gt.tc)
+👉 [mahefa-maximin-vitasoa.gt.tc](http://mahefa-maximin-vitasoa.gt.tc/login.php)
 
 ## 🔑 Accès démo
 - **Utilisateur :** `admin`
