@@ -35,4 +35,4 @@ Application web de gestion de bibliothèque développée en PHP.
 ## 👤 Auteur
 **Mahefa Maximin VITASOA**
 - GitHub : [Maximin501](https://github.com/Maximin501)
-- Portfolio : [mahefamaximinvitasoa.netlify.app](https://mahefamaximinvitasoa.netlify.app)
+- Portfolio : [mahefamaximinvitasoa.netlify.app](https://mahefamaximinvitasoa.netlify.app/portfolio-frontend/index.html)
